@@ -8,27 +8,36 @@ import { Linkedin, Twitter, Mail } from "lucide-react"
 export default function TeamSection() {
   const teamMembers = [
     {
-      name: "Dr. Rajesh Kumar",
-      role: "Event Chair",
+      name: "Dr. Pallavi,R",
+      role: `Professor & HOD,
+      IST Department `,
+      organization: "Presidency University",
+      image: "/pallavi mam.png",
+    },
+    {
+      name: "Dr.S.Poornima",
+      role: `Assistant Professor-Senior Scale
+      Presidency UNiversity
+      Bangalore`,
+      image: "/placeholder.svg",
+    },
+    {
+      name: "Ms.Pushpalatha",
+      role: `Assistant Professor
+      Presidency University
+      Bangalore`,
+      image: "/placeholder.svg",
+    },
+    {
+      name: "Vignesh Kumar U",
+      role: "Student Cordinator",
       organization: "Presidency University",
       image: "/placeholder.svg",
     },
     {
-      name: "Smt. Anupama Singh",
-      role: "Police Coordinator",
-      organization: "Karnataka State Police",
-      image: "/placeholder.svg",
-    },
-    {
-      name: "Prof. Aditya Sharma",
-      role: "Technical Lead",
+      name: "Trishala V",
+      role: "Student Cordinator",
       organization: "Presidency University",
-      image: "/placeholder.svg",
-    },
-    {
-      name: "Mr. Vikram Desai",
-      role: "Industry Mentor",
-      organization: "Tech Solutions Inc.",
       image: "/placeholder.svg",
     },
   ]

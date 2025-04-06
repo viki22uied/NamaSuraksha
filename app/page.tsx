@@ -25,7 +25,7 @@ export default function Home() {
         <div className="container flex h-20 items-center justify-between">
           <div className="flex items-center gap-4">
             <Image
-              src="/namma-suraksha-logo.png"
+              src="namasuraksha.jpg"
               alt="Namma Suraksha Logo"
               width={50}
               height={50}
@@ -52,7 +52,7 @@ export default function Home() {
           </nav>
           <div className="flex items-center gap-4">
             <Image
-              src="/presidency-logo.png"
+              src="/presidency logo.png"
               alt="Presidency University Logo"
               width={40}
               height={40}
@@ -291,7 +291,7 @@ export default function Home() {
                 <Card className="bg-navy-800/50 border-gold-500/30 backdrop-blur-sm overflow-hidden w-64 h-64 flex items-center justify-center">
                   <CardContent className="p-4">
                     <Image
-                      src="/placeholder.svg"
+                      src="/registrations.png"
                       alt="Registration QR Code"
                       width={200}
                       height={200}
@@ -304,7 +304,7 @@ export default function Home() {
                   <div className="space-y-2">
                     <h3 className="text-xl font-bold text-gold-400">Registration Details</h3>
                     <p className="text-gold-100/80">
-                      Scan the QR code or click the button below to register your team.
+                      Scan the QR code 
                     </p>
                   </div>
 
@@ -313,7 +313,7 @@ export default function Home() {
                       Registration Deadline: <span className="font-bold text-gold-300">April 20, 2025</span>
                     </p>
                     <p className="text-gold-100/80">
-                      Team Size: <span className="font-bold text-gold-300">2-4 members</span>
+                      Team Size: <span className="font-bold text-gold-300">3-4 members</span>
                     </p>
                   </div>
 

@@ -22,16 +22,8 @@ export default function FAQSection() {
       answer:
         "We're looking for innovative solutions in four key areas: public safety, data analytics, cybersecurity, and sustainability. Your solution should address real-world challenges faced by law enforcement and communities in these domains.",
     },
-    {
-      question: "Will there be mentorship available?",
-      answer:
-        "Yes, participants will have access to mentors from the Karnataka State Police, technology experts, and industry professionals throughout the hackathon. Mentors will provide guidance on technical aspects as well as domain-specific knowledge.",
-    },
-    {
-      question: "What are the judging criteria?",
-      answer:
-        "Solutions will be judged based on innovation, technical implementation, feasibility, scalability, and potential impact. The judging panel will include representatives from Karnataka State Police, Presidency University, and industry experts.",
-    },
+   
+  
     {
       question: "Do we need to bring our own hardware/equipment?",
       answer:
